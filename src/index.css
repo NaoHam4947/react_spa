@@ -1,0 +1,38 @@
+body {
+  background-color:blanchedalmond;
+  padding: 20px;
+  margin: 0;
+}
+h1, h2, p, u1, li {
+  font-family: sans-serif;
+}
+u1.header li {
+  display: inline;
+  list-style-type: none;
+  margin: 0;
+}
+u1.header li {
+  background-color: brown;
+  padding: 0;
+}
+u1.header li a {
+  color: forestgreen;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 20px;
+  display: inline-block;
+}
+
+.content {
+  background-color: peru;
+  padding: 20px;
+}
+
+.content h2 {
+  padding: 0;
+  margin: 0;
+}
+
+.content li {
+  margin-bottom: 10px;
+}
